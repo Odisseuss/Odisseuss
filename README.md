@@ -31,9 +31,9 @@ I am a Full Stack Developer studying computer science at the University of Liver
 
 &nbsp;
 
-<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=odisseuss&show_icons=true&hide=stars&theme=tokyonight" />
+<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=Odisseuss&show_icons=true&hide=stars&theme=tokyonight" />
 
-<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Odisseuss&theme=tokyonight" />
+<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Odisseuss&custom_title=Time I Spent Coding This Week&theme=tokyonight"/>
 
 &nbsp;
 
