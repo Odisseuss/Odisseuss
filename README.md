@@ -3,7 +3,6 @@
 I am a Full Stack Developer studying computer science at the University of Liverpool
 
 - 🌱 I’m currently working on my honours project
-- 🔭 I’m looking for a job!
 - 📫 How to reach me: rares_lungescu@yahoo.com
 - ⚡ Funniest dry humor joke I heard lately: What do sprinters eat before a race? Nothing, they fast
 
